@@ -16,6 +16,6 @@ Set up Github and Visual Studio Code.
 
 ## Interaction Instructions
 
-Week 1 Side Quest set up.
+View Github setup from week 1 side quest.
 
 ---
